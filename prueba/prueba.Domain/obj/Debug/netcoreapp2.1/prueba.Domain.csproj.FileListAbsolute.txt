@@ -1,0 +1,9 @@
+C:\Users\Kevin\source\repos\prueba\prueba.Domain\bin\Debug\netcoreapp2.1\prueba.Domain.deps.json
+C:\Users\Kevin\source\repos\prueba\prueba.Domain\bin\Debug\netcoreapp2.1\prueba.Domain.dll
+C:\Users\Kevin\source\repos\prueba\prueba.Domain\obj\Debug\netcoreapp2.1\prueba.Domain.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\prueba\prueba.Domain\obj\Debug\netcoreapp2.1\prueba.Domain.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\prueba\prueba.Domain\obj\Debug\netcoreapp2.1\prueba.Domain.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\prueba\prueba.Domain\bin\Debug\netcoreapp2.1\prueba.Domain.pdb
+C:\Users\Kevin\source\repos\prueba\prueba.Domain\obj\Debug\netcoreapp2.1\prueba.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\prueba\prueba.Domain\obj\Debug\netcoreapp2.1\prueba.Domain.dll
+C:\Users\Kevin\source\repos\prueba\prueba.Domain\obj\Debug\netcoreapp2.1\prueba.Domain.pdb

@@ -1,0 +1,12 @@
+C:\Users\Kevin\source\repos\prueba\prueba.UseCase\bin\Debug\netcoreapp2.1\prueba.UseCase.deps.json
+C:\Users\Kevin\source\repos\prueba\prueba.UseCase\bin\Debug\netcoreapp2.1\prueba.UseCase.dll
+C:\Users\Kevin\source\repos\prueba\prueba.UseCase\bin\Debug\netcoreapp2.1\prueba.UseCase.pdb
+C:\Users\Kevin\source\repos\prueba\prueba.UseCase\bin\Debug\netcoreapp2.1\prueba.Domain.dll
+C:\Users\Kevin\source\repos\prueba\prueba.UseCase\bin\Debug\netcoreapp2.1\prueba.Domain.pdb
+C:\Users\Kevin\source\repos\prueba\prueba.UseCase\obj\Debug\netcoreapp2.1\prueba.UseCase.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\prueba\prueba.UseCase\obj\Debug\netcoreapp2.1\prueba.UseCase.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\prueba\prueba.UseCase\obj\Debug\netcoreapp2.1\prueba.UseCase.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\prueba\prueba.UseCase\obj\Debug\netcoreapp2.1\prueba.UseCase.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\prueba\prueba.UseCase\obj\Debug\netcoreapp2.1\prueba.UseCase.csproj.CopyComplete
+C:\Users\Kevin\source\repos\prueba\prueba.UseCase\obj\Debug\netcoreapp2.1\prueba.UseCase.dll
+C:\Users\Kevin\source\repos\prueba\prueba.UseCase\obj\Debug\netcoreapp2.1\prueba.UseCase.pdb
